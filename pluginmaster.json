@@ -15,6 +15,7 @@
         "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
         "IsHide": false,
+        "IconUrl": "https://raw.githubusercontent.com/altaint/ThresholdChecker/main/Media/placeholder.png",
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
         "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
