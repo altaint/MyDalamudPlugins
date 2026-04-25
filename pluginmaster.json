@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "altan",
+    "Name": "Threshold Checker",
+    "InternalName": "Threshold Checker",
+    "AssemblyVersion": "1.0.0.0",
+	"Punchline": "Checks boss health against time thresholds.",
+    "Description": "Simple tool to check boss health when sandbagging.",
+	"Changelog": "",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/altaint/ThresholdChecker",
+    "Tags": [
+      "combat",
+      "damage",
+      "raiding"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/altaint/ThresholdChecker/main/Media/placeholder.png",
+	"ImageUrls": [],
+    "DownloadLinkInstall": "https://github.com/altaint/MyDalamudPlugins/raw/master/plugins/ThresholdChecker/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/master/plugins/ThresholdChecker/latest.zip",
+    "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/master/plugins/ThresholdChecker/latest.zip"
+  }
+]

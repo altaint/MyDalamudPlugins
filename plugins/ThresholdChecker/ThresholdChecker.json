@@ -1,0 +1,19 @@
+{
+  "Author": "altan",
+  "Name": "Threshold Checker",
+  "InternalName": "ThresholdChecker",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Simple tool to check boss health when sandbagging.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "dps"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Checks boss health against time thresholds.",
+  "AcceptsFeedback": true
+}
