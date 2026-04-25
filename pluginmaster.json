@@ -1,28 +1,24 @@
 [
-  {
-    "Author": "altan",
-    "Name": "Threshold Checker",
-    "InternalName": "Threshold Checker",
-    "AssemblyVersion": "1.0.0.0",
-	"Punchline": "Checks boss health against time thresholds.",
-    "Description": "Simple tool to check boss health when sandbagging.",
-	"Changelog": "",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/altaint/ThresholdChecker",
-    "Tags": [
-      "combat",
-      "damage",
-      "raiding"
-    ],
-    "DalamudApiLevel": 14,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/altaint/ThresholdChecker/main/Media/placeholder.png",
-	"ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/altaint/MyDalamudPlugins/raw/master/plugins/ThresholdChecker/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/master/plugins/ThresholdChecker/latest.zip",
-    "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/master/plugins/ThresholdChecker/latest.zip"
-  }
+    {
+        "Author": "altan",
+        "Name": "Threshold Checker",
+        "Punchline": "Checks boss health against time thresholds.",
+        "Description": "Simple tool to check boss health when sandbagging.",
+        "InternalName": "ThresholdChecker",
+        "AssemblyVersion": "0.0.0.2",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "plugin",
+            "dps"
+        ],
+        "DalamudApiLevel": 14,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1777093891"
+    }
 ]
