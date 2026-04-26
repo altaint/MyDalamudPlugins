@@ -2,9 +2,10 @@
   "Author": "altan",
   "Name": "Threshold Checker",
   "InternalName": "ThresholdChecker",
-  "AssemblyVersion": "0.0.0.2",
+  "AssemblyVersion": "0.0.0.3",
   "Description": "Simple tool to check boss health when sandbagging.",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/altaint/ThresholdChecker",
   "Tags": [
     "plugin",
     "dps"
@@ -14,6 +15,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/altaint/ThresholdChecker/main/Media/placeholder.png",
   "Punchline": "Checks boss health against time thresholds.",
   "AcceptsFeedback": true
 }
