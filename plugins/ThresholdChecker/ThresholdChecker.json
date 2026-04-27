@@ -2,7 +2,7 @@
   "Author": "altan",
   "Name": "Threshold Checker",
   "InternalName": "ThresholdChecker",
-  "AssemblyVersion": "0.0.1.0",
+  "AssemblyVersion": "0.0.1.1",
   "Description": "Simple tool to check boss health when sandbagging.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/altaint/ThresholdChecker",
