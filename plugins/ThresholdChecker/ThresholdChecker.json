@@ -2,13 +2,14 @@
   "Author": "altan",
   "Name": "Threshold Checker",
   "InternalName": "ThresholdChecker",
-  "AssemblyVersion": "0.0.1.4",
-  "Description": "Simple tool to check boss health when sandbagging.",
+  "AssemblyVersion": "0.0.2.0",
+  "Description": "Helps track health targets based on time goals. Useful for when you need to check if you're ahead of a known enrage time or a set kill time.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/altaint/ThresholdChecker",
   "Tags": [
-    "plugin",
-    "dps"
+    "damage",
+    "raiding",
+    "enrage"
   ],
   "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
