@@ -2,7 +2,7 @@
   "Author": "altan",
   "Name": "Threshold Checker",
   "InternalName": "ThresholdChecker",
-  "AssemblyVersion": "0.0.3.0",
+  "AssemblyVersion": "0.0.3.1",
   "Description": "Helps track health targets based on time goals. Useful for when you need to check if you're ahead of a known enrage time or a set kill time.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/altaint/ThresholdChecker",
