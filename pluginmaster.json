@@ -22,6 +22,30 @@
         "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
         "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1781942197"
+        "LastUpdate": "1781943574"
+    },
+    {
+        "Author": "altan",
+        "Name": "P4 Helper",
+        "Punchline": "A toggleable helper to track real/fake debuffs for the monkes.",
+        "Description": "A toggleable helper to track real/fake debuffs for the monkes.",
+        "InternalName": "P4Helper",
+        "AssemblyVersion": "0.0.0.2",
+        "RepoUrl": "https://github.com/altaint/P4Helper",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "raid helper",
+            "plugin"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/altaint/P4Helper/main/Data/placeholder.png",
+        "DownloadLinkInstall": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/P4Helper/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/P4Helper/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/P4Helper/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1781943574"
     }
 ]
