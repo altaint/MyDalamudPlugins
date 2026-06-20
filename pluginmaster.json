@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
         "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/ThresholdChecker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1781943574"
+        "LastUpdate": "1781999944"
     },
     {
         "Author": "altan",
@@ -30,7 +30,7 @@
         "Punchline": "A toggleable helper to track real/fake debuffs for the monkes.",
         "Description": "A toggleable helper to track real/fake debuffs for the monkes.",
         "InternalName": "P4Helper",
-        "AssemblyVersion": "0.0.0.2",
+        "AssemblyVersion": "0.0.0.3",
         "RepoUrl": "https://github.com/altaint/P4Helper",
         "ApplicableVersion": "any",
         "Tags": [
@@ -46,6 +46,6 @@
         "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/P4Helper/latest.zip",
         "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/P4Helper/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1781943574"
+        "LastUpdate": "1781999944"
     }
 ]
