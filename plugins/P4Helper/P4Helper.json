@@ -1,0 +1,21 @@
+{
+  "Author": "altan",
+  "Name": "P4 Helper",
+  "InternalName": "P4Helper",
+  "AssemblyVersion": "0.0.0.2",
+  "Description": "A toggleable helper to track real/fake debuffs for the monkes.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/altaint/P4Helper",
+  "Tags": [
+    "raid helper",
+    "plugin"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/altaint/P4Helper/main/Data/placeholder.png",
+  "Punchline": "A toggleable helper to track real/fake debuffs for the monkes.",
+  "AcceptsFeedback": true
+}
