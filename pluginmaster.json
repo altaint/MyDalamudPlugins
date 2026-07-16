@@ -47,5 +47,30 @@
         "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/P4Helper/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1781999944"
+    },
+	{
+        "Author": "altan",
+        "Name": "Triple Triad Tracker",
+        "Punchline": "Tracks your Triple Triad Cards.",
+        "Description": "Tracks your Triple Triad collection with filters to show what you have uncollected and where you can find each card.",
+        "InternalName": "Triple Triad Tracker",
+        "AssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/altaint/TripleTriadTracker",
+        "ApplicableVersion": "any",
+        "Tags": [
+			"triple triad",
+			"plugin",
+			"collection"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/altaint/TripleTriadTracker/main/Data/placeholder.png",
+        "DownloadLinkInstall": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/TripleTriadTracker/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/TripleTriadTracker/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/altaint/MyDalamudPlugins/raw/main/plugins/TripleTriadTracker/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1781999944"
     }
 ]
