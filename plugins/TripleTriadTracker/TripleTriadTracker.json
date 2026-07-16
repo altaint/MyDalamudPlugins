@@ -1,0 +1,20 @@
+{
+  "Author": "altan",
+  "Name": "Triple Triad Tracker",
+  "InternalName": "TripleTriadTracker",
+  "AssemblyVersion": "0.0.0.2",
+  "Description": "Tracks your Triple Triad collection with filters to show what you have uncollected and where you can find each card.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "triple triad",
+    "plugin",
+    "collection"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Tracks your Triple Triad Cards.",
+  "AcceptsFeedback": true
+}
